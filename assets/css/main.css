@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,700&display=swap&subset=cyrillic');
+
+a, a:active, a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e6ebf2;
+}
+
+body {
+    color: #3b4951;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 12px;
+    margin: 0;
+}
+
+.content {
+    height: calc(100vh - 151px);
+}
+
+.skeleton {
+    width: 1258px;
+    margin: auto;
+}

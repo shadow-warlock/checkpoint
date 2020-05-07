@@ -1,0 +1,18 @@
+.datetime {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 98px;
+}
+
+.datetime .time {
+    align-items: center;
+    display: flex;
+    font-size: 16px;
+    font-weight: 700;
+    height: 20px;
+    justify-content: center;
+    margin-bottom: 5px;
+    width: 70px;
+}
